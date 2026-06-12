@@ -322,18 +322,3 @@ class CartItemTile extends ConsumerWidget {
     );
   }
 }
-
-class CartItem {
-  final MenuItem cartItem;
-  final int quantity;
-
-  CartItem({required this.cartItem, required this.quantity});
-}
-
-class MenuItem {
-  final String id;
-  final String name;
-  final double price;
-
-  MenuItem({required this.id, required this.name, required this.price});
-}

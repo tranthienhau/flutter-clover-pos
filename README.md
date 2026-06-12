@@ -2,6 +2,16 @@
 
 A cross-platform point-of-sale (POS) application built with Flutter, demonstrating Clover API integration for restaurant management.
 
+## Demo
+
+These are real iOS-Simulator captures from the running app (see [FLOW.md](FLOW.md) for how they were generated).
+
+| Menu catalog | Order cart | Checkout summary |
+| --- | --- | --- |
+| ![Menu](screenshots/01-menu.png) | ![Order cart](screenshots/02-order-cart.png) | ![Checkout](screenshots/03-checkout.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - **Menu Management**: Browse and display restaurant menu items with prices
